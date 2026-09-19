@@ -1,0 +1,12 @@
+Machine learning basics
+
+Machine learning is a subset of artificial intelligence that enables systems to learn and improve
+from experiences without being explicitly programmed. It focuses on developing computer programs that
+can access data and use it to learn for themselves.
+
+Types of Machine learning:
+1. Supervised learning: Learning with labeled data
+2. Unsupervised learning: Finding patterns in unlabeled data
+3. Reinforcement learning: Learning through rewards and penalties
+
+    

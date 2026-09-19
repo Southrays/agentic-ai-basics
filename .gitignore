@@ -1,5 +1,9 @@
-# Eenvironments variables
+# Environments variables
 .env
+.env.*
+
+# Pdf documents
+*.pdf
 
 # Python-generated files
 __pycache__/
