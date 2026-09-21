@@ -121,7 +121,7 @@ def get_medication_info(medication: str) -> str:
 
 # --- Build the healthcare chatbot ---
 healthcare_bot = create_agent(
-    model="gpt-4o",
+    model=model,
     tools=[search_symptoms, book_appointment, get_medication_info],
     middleware=[
         # Guardrail 1: Block harmful/off-topic requests
