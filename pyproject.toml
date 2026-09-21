@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "chromadb>=1.5.9",
+    "deepagents>=0.7.15",
     "dotenv>=0.9.9",
     "faiss-cpu>=1.15.0",
     "ipykernel>=7.3.0",
@@ -20,8 +21,10 @@ dependencies = [
     "mcp>=1.29.1",
     "numpy>=2.5.1",
     "openai>=2.53.0",
+    "pageindex>=0.2.18",
     "pymupdf>=1.28.2",
     "pypdf>=6.17.0",
     "sentence-transformers>=6.0.1",
     "streamlit>=1.61.1",
+    "tavily-python>=0.8.4",
 ]
